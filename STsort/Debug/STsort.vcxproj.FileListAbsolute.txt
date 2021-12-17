@@ -1,0 +1,2 @@
+C:\Users\appeon\Desktop\Project\STsort\Debug\STsort.exe
+C:\Users\appeon\Desktop\Project\STsort\Debug\STsort.pdb
