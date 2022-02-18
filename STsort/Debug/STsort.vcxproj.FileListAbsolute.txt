@@ -1,2 +1,4 @@
 C:\Users\appeon\Desktop\Project\STsort\Debug\STsort.exe
 C:\Users\appeon\Desktop\Project\STsort\Debug\STsort.pdb
+C:\Users\appeon\Desktop\Project\Sorting-Algorithm\STsort\Debug\STsort.exe
+C:\Users\appeon\Desktop\Project\Sorting-Algorithm\STsort\Debug\STsort.pdb
